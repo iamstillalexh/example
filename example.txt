@@ -1,3 +1,4 @@
 Where's the beef?
 
 HEY! WHERES THE BEEF
+Greetings from scenic Git BASH!
